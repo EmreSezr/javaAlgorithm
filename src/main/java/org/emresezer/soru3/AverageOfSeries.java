@@ -2,7 +2,7 @@ package org.emresezer.soru3;
 
 import java.util.Random;
 
-public class SoruUc {
+public class AverageOfSeries {
     /*Rastgele sayılardan oluşmuş 100 elemanlık tamsayı dizisindeki tüm elemanların ortalamasını alacak programı geliştirin.
         Programı yazarken aşağıdaki özelliklere uygun yazınız.
 
