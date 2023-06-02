@@ -13,7 +13,7 @@ public class PasswordMatch {
         if (userPass.equals(password)) {
             System.out.println("Giriş başarılı");
         } else {
-            System.out.println("Şifre yanlış");
+            System.out.println("Şifre yanlış ");
         }
 
 
