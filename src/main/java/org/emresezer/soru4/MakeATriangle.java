@@ -1,6 +1,6 @@
 package org.emresezer.soru4;
 
-public class SoruDort {
+public class MakeATriangle {
     /* Dik üçgen yap. */
 
     public static void main(String[] args) {
