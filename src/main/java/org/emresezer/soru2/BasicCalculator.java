@@ -2,7 +2,7 @@ package org.emresezer.soru2;
 
 import java.util.Scanner;
 
-public class SoruIki {
+public class BasicCalculator {
     /* Kullanıcının konsol ekrandan 4 temel matematiksel işlemi yapabildiği bir program yazmanız bekleniyor. Program aşağıdaki özellikleri sağlamalıdır.
 
      * Yapılabilecek temel işlemler: Toplama, Çıkarma, Çarpma, Bölme
