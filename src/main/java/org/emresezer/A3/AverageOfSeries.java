@@ -1,4 +1,4 @@
-package org.emresezer.soru3;
+package org.emresezer.A3;
 
 import java.util.Random;
 
