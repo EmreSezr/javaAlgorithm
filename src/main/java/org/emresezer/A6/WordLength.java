@@ -1,4 +1,4 @@
-package org.emresezer.soru6;
+package org.emresezer.A6;
 
 import java.util.Scanner;
 
