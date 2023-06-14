@@ -1,4 +1,4 @@
-package org.emresezer.soru9;
+package org.emresezer.A9;
 
 import java.util.Scanner;
 
@@ -22,7 +22,7 @@ public class Factorial {
         System.out.println("Sonuç : " + (factorial.factorialCalculate(factorialNumber)));
         scanner.close();
     }
-    
+
 }
 
 
