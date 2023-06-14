@@ -1,4 +1,4 @@
-package org.emresezer.soru4;
+package org.emresezer.A4;
 
 public class MakeATriangle {
     /* Dik üçgen yap. */
