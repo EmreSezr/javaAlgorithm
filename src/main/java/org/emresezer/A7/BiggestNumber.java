@@ -1,4 +1,4 @@
-package org.emresezer.soru7;
+package org.emresezer.A7;
 
 public class BiggestNumber {
 
