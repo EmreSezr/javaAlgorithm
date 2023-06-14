@@ -8,7 +8,7 @@ public class AverageOfSeries {
 
      * Rastgele oluşan 100 elemanlık sayı kümesi program yeniden her çalıştığında değişsin. Sabit elemanlı bir dizi vermeyin!
      * Ortalama almayı sağlayacak kodu bir fonksiyon halinde tasarlayın. İçine diziyi girdi (input) olarak alsın.
-     * Ortalama alan fonksiyon ortalamayı ondalıklı sayı olarak döndürsün. (return) etsin.
+     * Ortalama alan fonksiyon ortalamayı ondalıklı sayı olarak döndürsün. (return)  etsin.
 
      */
     public static double ortalamaHesap(int[] dizi) {
