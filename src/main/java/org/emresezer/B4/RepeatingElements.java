@@ -8,6 +8,8 @@ import java.util.Scanner;
 public class RepeatingElements {
     public static void main(String[] args) {
 
+        // Tekrar eden elemanları  ekrana çıktı olarak veren program
+
         Scanner scanner = new Scanner(System.in);
         System.out.print("Dizi kaç elemanlı olsun? : ");
         int listCount = scanner.nextInt();
