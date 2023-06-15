@@ -35,14 +35,11 @@ public class BubbleSortAlgorithm {
         }
 
         /*
-        for (int i = 0; i < arrayLength; i++) {
-            for (int j = i + 1; j <= i + 1 && j < arrayLength; j++) {
-                if (array[i] > array[j]) {
-                    tempArray[i] = array[j];
-                    array[i] = array[j];
-                    array[j] = tempArray[i];
-                }
-            }
+        Test Sample Array : [4,3,2]
+        step 1 : [3,4,2]
+        step 2 : [3,2,4]
+        step 3 : [2,3,4]
+        over
         }*/
 
         System.out.println("Sıralanmış Dizi: " + Arrays.toString(array));
