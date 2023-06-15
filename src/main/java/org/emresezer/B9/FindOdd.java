@@ -6,7 +6,9 @@ import java.util.Scanner;
 
 public class FindOdd {
     public static void main(String[] args) {
-        //
+        /* Kullanıcıdan dizi boyutunu aldığımız ve rastgele bir şekilde değer verdiğimiz
+        elemanların hangilerinin tek sayı olduğunu çıktı olarak veriyoruz
+        * */
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
         System.out.print("Dizi Kaç Elemanlı Olsun : ");
