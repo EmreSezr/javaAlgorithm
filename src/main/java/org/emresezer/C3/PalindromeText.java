@@ -19,6 +19,18 @@ public class PalindromeText {
         return true;
     }
 
+    //Alternatif StringBuilder Methodu
+    public static String reverseText(String str) {
+        StringBuilder builder = new StringBuilder(str);
+        builder.reverse();
+        String reversedString = builder.toString();
+
+        if (reversedString.equals(str)) {
+            return "Yes";
+        }
+        return "No";
+    }
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Kelime Giriniz : ");
@@ -29,5 +41,8 @@ public class PalindromeText {
         } else {
             System.out.println(str + " bir palindrom değildir.");
         }
+
+        //Alternatif
+        System.out.println(reverseText(str));
     }
 }
