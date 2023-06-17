@@ -3,7 +3,7 @@ package org.emresezer.B3;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class RevertArray {
+public class ReverseArray {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
