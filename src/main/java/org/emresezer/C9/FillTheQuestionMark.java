@@ -3,6 +3,14 @@ import java.util.Scanner;
 
 public class FillTheQuestionMark {
     public static void main(String[] args) {
+        /*
+        Example usage:
+                Input: ??la
+                Substring: c o
+                Output: cola
+                If the number of question marks is greater than the number of substrings,
+                the output will be -1.
+        * */
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Input: ");
