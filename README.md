@@ -109,7 +109,7 @@
 * 3 ve 5'in katlarına gelirse "FizzBuzz" der
 [Kaynak Kodu](https://github.com/EmreSezr/javaAlgorithm/blob/master/src/main/java/org/emresezer/C7/FizzBuzz.java)
 
-### 24) Sayının rakamları toplamının kendinden büyük sayıdaki eşiti
+### 26) Sayının rakamları toplamının kendinden büyük sayıdaki eşiti
 * Input : 237    Output : 246
 * 237 rakamları toplamı=12 ve 246'nın rakamları toplamı da 12'dir
 * Method, kendinden sonraki en yakın sayıyı bulur.
