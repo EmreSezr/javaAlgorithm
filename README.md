@@ -109,19 +109,26 @@
 * 3 ve 5'in katlarına gelirse "FizzBuzz" der
 [Kaynak Kodu](https://github.com/EmreSezr/javaAlgorithm/blob/master/src/main/java/org/emresezer/C7/FizzBuzz.java)
 
-### 26) Sayının rakamları toplamının kendinden büyük sayıdaki eşiti
+
+### 26)Dizilerdeki tekrarı olmayan elemanları yazdırma
+[Kaynak Kodu](https://github.com/EmreSezr/javaAlgorithm/blob/master/src/main/java/org/emresezer/C8/SingleNumberInArray.java)
+
+### 27)Soru işaretlerini (?) substring ile doldurma 
+[Kaynak Kodu](https://github.com/EmreSezr/javaAlgorithm/blob/master/src/main/java/org/emresezer/C9/FillTheQuestionMark.java)
+
+### 28) Sayının rakamları toplamının kendinden büyük sayıdaki eşiti
 * Input : 237    Output : 246
 * 237 rakamları toplamı=12 ve 246'nın rakamları toplamı da 12'dir
 * Method, kendinden sonraki en yakın sayıyı bulur.
 [Kaynak Kodu](https://github.com/EmreSezr/javaAlgorithm/blob/master/src/main/java/org/emresezer/D1/SumOfDigits.java)
 
+### 29)Inputtan belirlenen sayı kadar eleman alıp iki diziyi sıralayıp birleştirme
+* Input: nums1 = [1,2,3,0,0,0], m = 3, nums2 = [2,5,6], n = 3
+* Output: [1,2,2,3,5,6]
+[Kaynak Kodu](https://github.com/EmreSezr/javaAlgorithm/blob/master/src/main/java/org/emresezer/D2/MergeSortedArray.java)
 
+### 30)Hedeflenen sayıyı dizinin iki elemanının toplamından bulma
+* Input: nums = [3,2,4], target = 6
+* Output: 1,2
+[Kaynak Kodu](https://github.com/EmreSezr/javaAlgorithm/blob/master/src/main/java/org/emresezer/D3/TwoSum.java)
 
-
-
-
-
-
-
-
-   
